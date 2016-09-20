@@ -26,6 +26,7 @@ module.exports.init = function init() {
 
             client.on("pppbinery",binery.base64Img)
 
+
             client.on('message',function (ms) {
 
                 log.info('message :'+ms)
