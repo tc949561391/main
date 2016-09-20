@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+var io = require('../app')
+var log=require('../init/log')
+var init=require('../init')
+var config = require('../config')
+io.listen(config.boot.port)
+var conn=require('../core/connection')
+conn.init()
+log.debug('boot at port '+config.boot.port)

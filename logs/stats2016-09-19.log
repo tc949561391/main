@@ -1,0 +1,535 @@
+[2016-09-19 13:09:43.433] [DEBUG] stats - init socket io
+[2016-09-19 13:09:43.625] [DEBUG] stats - boot at port 80
+[2016-09-19 13:09:43.628] [DEBUG] stats - redis init success
+[2016-09-19 13:09:43.692] [INFO] stats - /#PLuGGwhkN6yTNaTeAAAA---connection success
+[2016-09-19 13:09:43.692] [INFO] stats - /#PLuGGwhkN6yTNaTeAAAA---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:09:43.698] [INFO] stats - /#PLuGGwhkN6yTNaTeAAAA---auth success and getconnect
+[2016-09-19 13:10:20.002] [INFO] stats - /#7IRBICwB5mf1vS7ZAAAB---connection success
+[2016-09-19 13:10:20.003] [INFO] stats - /#7IRBICwB5mf1vS7ZAAAB---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:11:41.067] [INFO] stats - /#Ae02Y9Owq7O44bn_AAAC---connection success
+[2016-09-19 13:11:41.067] [INFO] stats - /#Ae02Y9Owq7O44bn_AAAC---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:11:51.733] [INFO] stats - /#4aj7dBSxHpmaIsVZAAAD---connection success
+[2016-09-19 13:11:51.733] [INFO] stats - /#4aj7dBSxHpmaIsVZAAAD---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:12:23.840] [INFO] stats - /#jqcq1yY_Q8X9tXs6AAAE---connection success
+[2016-09-19 13:12:23.840] [INFO] stats - /#jqcq1yY_Q8X9tXs6AAAE---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:12:28.904] [DEBUG] stats - init socket io
+[2016-09-19 13:12:29.375] [DEBUG] stats - boot at port 80
+[2016-09-19 13:12:29.381] [DEBUG] stats - redis init success
+[2016-09-19 13:12:29.437] [INFO] stats - /#LZK0YfT5dNqEtz61AAAA---connection success
+[2016-09-19 13:12:29.438] [INFO] stats - /#LZK0YfT5dNqEtz61AAAA---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:12:54.554] [INFO] stats - /#o12jPcYG0V5SaD6kAAAB---connection success
+[2016-09-19 13:12:54.555] [INFO] stats - /#o12jPcYG0V5SaD6kAAAB---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:13:02.101] [INFO] stats - /#aWuBzrprf1V9-x9zAAAC---connection success
+[2016-09-19 13:13:02.101] [INFO] stats - /#aWuBzrprf1V9-x9zAAAC---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:15:06.329] [INFO] stats - /#NCf_-hh_KuCmajLeAAAD---connection success
+[2016-09-19 13:15:06.331] [INFO] stats - /#NCf_-hh_KuCmajLeAAAD---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:16:25.383] [DEBUG] stats - init socket io
+[2016-09-19 13:16:25.525] [DEBUG] stats - boot at port 80
+[2016-09-19 13:16:25.531] [DEBUG] stats - redis init success
+[2016-09-19 13:16:33.039] [INFO] stats - /#-pxwgnwS9cp1TV0EAAAA---connection success
+[2016-09-19 13:16:33.039] [INFO] stats - /#-pxwgnwS9cp1TV0EAAAA---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:16:55.186] [DEBUG] stats - init socket io
+[2016-09-19 13:16:55.326] [DEBUG] stats - boot at port 80
+[2016-09-19 13:16:55.332] [DEBUG] stats - redis init success
+[2016-09-19 13:16:59.515] [INFO] stats - /#bWWUfa3epw24dhdJAAAA---connection success
+[2016-09-19 13:16:59.515] [INFO] stats - /#bWWUfa3epw24dhdJAAAA---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:17:09.035] [INFO] stats - /#nbxBDIDkzWvBuUf8AAAB---connection success
+[2016-09-19 13:17:09.038] [INFO] stats - /#nbxBDIDkzWvBuUf8AAAB---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:20:11.185] [INFO] stats - /#QGusv853OLCbYErTAAAC---connection success
+[2016-09-19 13:20:11.185] [INFO] stats - /#QGusv853OLCbYErTAAAC---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:20:15.147] [DEBUG] stats - init socket io
+[2016-09-19 13:20:15.285] [DEBUG] stats - boot at port 80
+[2016-09-19 13:20:15.291] [DEBUG] stats - redis init success
+[2016-09-19 13:20:16.219] [INFO] stats - /#bQwUBBkWdNEc-kngAAAA---connection success
+[2016-09-19 13:20:16.219] [INFO] stats - /#bQwUBBkWdNEc-kngAAAA---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:20:26.941] [INFO] stats - /#6nKg7L59kX2jB4CRAAAB---connection success
+[2016-09-19 13:20:26.941] [INFO] stats - /#6nKg7L59kX2jB4CRAAAB---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:20:45.312] [INFO] stats - /#S2XPZ_dJ0Ld_A_G_AAAC---connection success
+[2016-09-19 13:20:45.313] [INFO] stats - /#S2XPZ_dJ0Ld_A_G_AAAC---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:21:32.743] [INFO] stats - /#xZOvYcRCpCMPEwZtAAAD---connection success
+[2016-09-19 13:21:32.744] [INFO] stats - /#xZOvYcRCpCMPEwZtAAAD---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:21:51.267] [INFO] stats - /#SSd6HIp2hio3IgCyAAAE---connection success
+[2016-09-19 13:21:51.269] [INFO] stats - /#SSd6HIp2hio3IgCyAAAE---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:23:32.542] [DEBUG] stats - init socket io
+[2016-09-19 13:23:32.872] [DEBUG] stats - boot at port 80
+[2016-09-19 13:23:32.878] [DEBUG] stats - redis init success
+[2016-09-19 13:23:33.153] [INFO] stats - /#iL1KDLOiX3a1CpmPAAAA---connection success
+[2016-09-19 13:23:33.153] [INFO] stats - /#iL1KDLOiX3a1CpmPAAAA---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:23:36.193] [INFO] stats - /#bmtAGjuwl2nZpR9lAAAB---connection success
+[2016-09-19 13:23:36.194] [INFO] stats - /#bmtAGjuwl2nZpR9lAAAB---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:23:44.581] [INFO] stats - /#c5NUiSEG_ilJpT1TAAAC---connection success
+[2016-09-19 13:23:44.581] [INFO] stats - /#c5NUiSEG_ilJpT1TAAAC---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:23:48.407] [INFO] stats - /#1cM4kHRUFCsi2zwrAAAD---connection success
+[2016-09-19 13:23:48.407] [INFO] stats - /#1cM4kHRUFCsi2zwrAAAD---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:24:13.066] [DEBUG] stats - init socket io
+[2016-09-19 13:24:13.191] [DEBUG] stats - boot at port 80
+[2016-09-19 13:24:13.198] [DEBUG] stats - redis init success
+[2016-09-19 13:24:13.332] [INFO] stats - /#XmkDmr7D6yJ1qyo2AAAA---connection success
+[2016-09-19 13:24:13.332] [INFO] stats - /#XmkDmr7D6yJ1qyo2AAAA---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:24:13.606] [INFO] stats - /#eZoSX8Fnssem82voAAAB---connection success
+[2016-09-19 13:24:13.607] [INFO] stats - /#eZoSX8Fnssem82voAAAB---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:24:20.945] [INFO] stats - /#8O_WWB_7i4mNhXRdAAAC---connection success
+[2016-09-19 13:24:20.946] [INFO] stats - /#8O_WWB_7i4mNhXRdAAAC---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:24:24.737] [INFO] stats - /#y_7Or9pdZUlAEm_gAAAD---connection success
+[2016-09-19 13:24:24.737] [INFO] stats - /#y_7Or9pdZUlAEm_gAAAD---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:25:50.038] [INFO] stats - /#cNS78FexCBN8wVh1AAAE---connection success
+[2016-09-19 13:25:50.039] [INFO] stats - /#cNS78FexCBN8wVh1AAAE---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:27:00.208] [DEBUG] stats - init socket io
+[2016-09-19 13:27:00.337] [DEBUG] stats - boot at port 80
+[2016-09-19 13:27:00.343] [DEBUG] stats - redis init success
+[2016-09-19 13:27:00.385] [INFO] stats - /#EaOdfgMSa-fdIcSVAAAA---connection success
+[2016-09-19 13:27:00.385] [INFO] stats - /#EaOdfgMSa-fdIcSVAAAA---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:27:00.788] [INFO] stats - /#F-gcOPp3QXU8iYLBAAAB---connection success
+[2016-09-19 13:27:00.788] [INFO] stats - /#F-gcOPp3QXU8iYLBAAAB---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:27:00.808] [INFO] stats - /#RLk1HCFyVgJadydRAAAC---connection success
+[2016-09-19 13:27:00.809] [INFO] stats - /#RLk1HCFyVgJadydRAAAC---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:27:25.253] [INFO] stats - /#NnK-2Eey3JxhbThdAAAD---connection success
+[2016-09-19 13:27:25.253] [INFO] stats - /#NnK-2Eey3JxhbThdAAAD---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 13:27:39.432] [INFO] stats - /#F8AnqwvB0c2OKKebAAAE---connection success
+[2016-09-19 13:27:39.433] [INFO] stats - /#F8AnqwvB0c2OKKebAAAE---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 14:40:11.909] [DEBUG] stats - init socket io
+[2016-09-19 14:40:12.050] [DEBUG] stats - boot at port 80
+[2016-09-19 14:40:12.056] [DEBUG] stats - redis init success
+[2016-09-19 14:40:27.818] [INFO] stats - /#1X3w8PM3fIKW_0ZgAAAA---connection success
+[2016-09-19 14:40:27.818] [INFO] stats - /#1X3w8PM3fIKW_0ZgAAAA---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 14:40:38.133] [INFO] stats - /#-MhyhWycBBBjKei0AAAB---connection success
+[2016-09-19 14:40:38.133] [INFO] stats - /#-MhyhWycBBBjKei0AAAB---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 14:40:43.102] [INFO] stats - /#d99rgAx9xsrwJjSsAAAC---connection success
+[2016-09-19 14:40:43.103] [INFO] stats - /#d99rgAx9xsrwJjSsAAAC---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 14:42:56.162] [DEBUG] stats - init socket io
+[2016-09-19 14:42:56.327] [DEBUG] stats - boot at port 80
+[2016-09-19 14:42:56.361] [INFO] stats - /#YY48FpDUu9aLbLdOAAAA---connection success
+[2016-09-19 14:42:56.363] [INFO] stats - /#YY48FpDUu9aLbLdOAAAA---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 14:42:56.370] [DEBUG] stats - redis init success
+[2016-09-19 14:42:56.709] [INFO] stats - /#QTWhhaWA6EM4M2yYAAAB---connection success
+[2016-09-19 14:42:56.710] [INFO] stats - /#QTWhhaWA6EM4M2yYAAAB---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 14:43:14.636] [INFO] stats - /#1Khmlyb2Ncl-q3XAAAAC---connection success
+[2016-09-19 14:43:14.637] [INFO] stats - /#1Khmlyb2Ncl-q3XAAAAC---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 14:43:19.039] [INFO] stats - /#097GqYhF1lX0e5AdAAAD---connection success
+[2016-09-19 14:43:19.039] [INFO] stats - /#097GqYhF1lX0e5AdAAAD---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 14:44:02.031] [DEBUG] stats - init socket io
+[2016-09-19 14:44:02.391] [DEBUG] stats - boot at port 80
+[2016-09-19 14:44:02.407] [DEBUG] stats - redis init success
+[2016-09-19 14:44:11.846] [INFO] stats - /#ZwJayFkXmZ8Bkf5jAAAA---connection success
+[2016-09-19 14:44:11.846] [INFO] stats - /#ZwJayFkXmZ8Bkf5jAAAA---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 14:45:42.007] [DEBUG] stats - init socket io
+[2016-09-19 14:45:42.142] [DEBUG] stats - boot at port 80
+[2016-09-19 14:45:42.152] [DEBUG] stats - redis init success
+[2016-09-19 14:45:47.026] [INFO] stats - /#030QzNqigSoojuz5AAAA---connection success
+[2016-09-19 14:45:47.026] [INFO] stats - /#030QzNqigSoojuz5AAAA---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 14:46:11.092] [DEBUG] stats - init socket io
+[2016-09-19 14:46:11.219] [DEBUG] stats - boot at port 80
+[2016-09-19 14:46:11.228] [DEBUG] stats - redis init success
+[2016-09-19 14:46:11.413] [INFO] stats - /#6jkyVvccKjsNTqc6AAAA---connection success
+[2016-09-19 14:46:11.414] [INFO] stats - /#6jkyVvccKjsNTqc6AAAA---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 14:46:11.445] [INFO] stats - /#6jkyVvccKjsNTqc6AAAA---auth success and getconnect
+[2016-09-19 14:46:16.258] [INFO] stats - /#sXerabD8A0PppY36AAAB---connection success
+[2016-09-19 14:46:16.258] [INFO] stats - /#sXerabD8A0PppY36AAAB---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 14:46:16.260] [INFO] stats - /#sXerabD8A0PppY36AAAB---auth success and getconnect
+[2016-09-19 14:46:32.170] [INFO] stats - /#Q3SHlrF7LKfybsLnAAAC---connection success
+[2016-09-19 14:46:32.170] [INFO] stats - /#Q3SHlrF7LKfybsLnAAAC---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 14:46:32.172] [INFO] stats - /#Q3SHlrF7LKfybsLnAAAC---auth success and getconnect
+[2016-09-19 14:46:37.349] [INFO] stats - /#otBcbb3tG8ZUbU9EAAAD---connection success
+[2016-09-19 14:46:37.353] [INFO] stats - /#otBcbb3tG8ZUbU9EAAAD---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 14:46:37.355] [INFO] stats - /#otBcbb3tG8ZUbU9EAAAD---auth success and getconnect
+[2016-09-19 14:47:33.456] [INFO] stats - /#BtZUyIFMXIFjqHZXAAAE---connection success
+[2016-09-19 14:47:33.456] [INFO] stats - /#BtZUyIFMXIFjqHZXAAAE---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 14:47:33.459] [INFO] stats - /#BtZUyIFMXIFjqHZXAAAE---auth success and getconnect
+[2016-09-19 14:47:40.656] [INFO] stats - /#kRjVOZsWAciZ2mkmAAAF---connection success
+[2016-09-19 14:47:40.656] [INFO] stats - /#kRjVOZsWAciZ2mkmAAAF---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 14:47:40.659] [INFO] stats - /#kRjVOZsWAciZ2mkmAAAF---auth success and getconnect
+[2016-09-19 14:47:45.799] [INFO] stats - /#_Fv4a3qWY4TPx01dAAAG---connection success
+[2016-09-19 14:47:45.799] [INFO] stats - /#_Fv4a3qWY4TPx01dAAAG---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 14:47:45.800] [INFO] stats - /#_Fv4a3qWY4TPx01dAAAG---auth success and getconnect
+[2016-09-19 14:47:50.109] [INFO] stats - /#6p06OQnbZRTELv0uAAAH---connection success
+[2016-09-19 14:47:50.109] [INFO] stats - /#6p06OQnbZRTELv0uAAAH---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 14:47:50.111] [INFO] stats - /#6p06OQnbZRTELv0uAAAH---auth success and getconnect
+[2016-09-19 14:47:58.087] [INFO] stats - /#bIvlEqvXb0Mlq-9BAAAI---connection success
+[2016-09-19 14:47:58.087] [INFO] stats - /#bIvlEqvXb0Mlq-9BAAAI---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 14:47:58.088] [INFO] stats - /#bIvlEqvXb0Mlq-9BAAAI---auth success and getconnect
+[2016-09-19 15:00:25.956] [INFO] stats - /#fKvdk9_ZlksCgMb-AAAJ---connection success
+[2016-09-19 15:00:25.957] [INFO] stats - /#fKvdk9_ZlksCgMb-AAAJ---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:00:25.959] [INFO] stats - /#fKvdk9_ZlksCgMb-AAAJ---auth success and getconnect
+[2016-09-19 15:00:30.119] [INFO] stats - /#_1inXk4S4RruQIU2AAAK---connection success
+[2016-09-19 15:00:30.119] [INFO] stats - /#_1inXk4S4RruQIU2AAAK---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:00:30.122] [INFO] stats - /#_1inXk4S4RruQIU2AAAK---auth success and getconnect
+[2016-09-19 15:00:53.756] [INFO] stats - /#UyCqbxgtfds0D-bZAAAL---connection success
+[2016-09-19 15:00:53.757] [INFO] stats - /#UyCqbxgtfds0D-bZAAAL---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:00:53.761] [INFO] stats - /#UyCqbxgtfds0D-bZAAAL---auth success and getconnect
+[2016-09-19 15:00:57.758] [INFO] stats - /#8w9AagepTSd8UXLxAAAM---connection success
+[2016-09-19 15:00:57.758] [INFO] stats - /#8w9AagepTSd8UXLxAAAM---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:00:57.761] [INFO] stats - /#8w9AagepTSd8UXLxAAAM---auth success and getconnect
+[2016-09-19 15:02:08.964] [DEBUG] stats - init socket io
+[2016-09-19 15:02:09.109] [DEBUG] stats - boot at port 80
+[2016-09-19 15:02:09.118] [DEBUG] stats - redis init success
+[2016-09-19 15:02:09.344] [INFO] stats - /#S6Yn8CctMkL8OcrDAAAA---connection success
+[2016-09-19 15:02:09.344] [INFO] stats - /#S6Yn8CctMkL8OcrDAAAA---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:02:09.357] [INFO] stats - /#S6Yn8CctMkL8OcrDAAAA---auth success and getconnect
+[2016-09-19 15:02:27.250] [INFO] stats - /#lDVgeXt0DUZv4ShgAAAB---connection success
+[2016-09-19 15:02:27.250] [INFO] stats - /#lDVgeXt0DUZv4ShgAAAB---start auth with /socket.io/?access_token=1235&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:02:27.256] [INFO] stats - /#lDVgeXt0DUZv4ShgAAAB---auth success and getconnect
+[2016-09-19 15:02:58.092] [INFO] stats - /#1zL-s-Y9QUvS-A99AAAC---connection success
+[2016-09-19 15:02:58.093] [INFO] stats - /#1zL-s-Y9QUvS-A99AAAC---start auth with /socket.io/?access_token=12356&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:02:58.094] [INFO] stats - /#1zL-s-Y9QUvS-A99AAAC---auth success and getconnect
+[2016-09-19 15:03:58.691] [INFO] stats - /#fOwSaEIgQpTM38drAAAD---connection success
+[2016-09-19 15:03:58.691] [INFO] stats - /#fOwSaEIgQpTM38drAAAD---start auth with /socket.io/?access_token=12356&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:03:58.694] [INFO] stats - /#fOwSaEIgQpTM38drAAAD---auth success and getconnect
+[2016-09-19 15:04:07.953] [INFO] stats - /#pomLAUCQI76R2L6zAAAE---connection success
+[2016-09-19 15:04:07.954] [INFO] stats - /#pomLAUCQI76R2L6zAAAE---start auth with /socket.io/?access_token=12357&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:04:07.955] [INFO] stats - /#pomLAUCQI76R2L6zAAAE---auth success and getconnect
+[2016-09-19 15:13:59.695] [INFO] stats - /#Tg4fhJB_dQLmCMQ-AAAF---connection success
+[2016-09-19 15:13:59.695] [INFO] stats - /#Tg4fhJB_dQLmCMQ-AAAF---start auth with /socket.io/?access_token=12357&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:13:59.698] [INFO] stats - /#Tg4fhJB_dQLmCMQ-AAAF---auth success and getconnect
+[2016-09-19 15:16:37.225] [INFO] stats - /#gldGY5BRnns9XWq-AAAG---connection success
+[2016-09-19 15:16:37.225] [INFO] stats - /#gldGY5BRnns9XWq-AAAG---start auth with /socket.io/?access_token=12357&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:16:37.226] [INFO] stats - /#gldGY5BRnns9XWq-AAAG---auth success and getconnect
+[2016-09-19 15:17:47.172] [INFO] stats - /#NqWtem6ArbMNEqMwAAAH---connection success
+[2016-09-19 15:17:47.173] [INFO] stats - /#NqWtem6ArbMNEqMwAAAH---start auth with /socket.io/?access_token=12357&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:17:47.174] [INFO] stats - /#NqWtem6ArbMNEqMwAAAH---auth success and getconnect
+[2016-09-19 15:19:34.360] [INFO] stats - /#VFikLMpJjWkrDjT4AAAI---connection success
+[2016-09-19 15:19:34.360] [INFO] stats - /#VFikLMpJjWkrDjT4AAAI---start auth with /socket.io/?access_token=123&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:19:34.361] [INFO] stats - /#VFikLMpJjWkrDjT4AAAI---auth success and getconnect
+[2016-09-19 15:19:42.985] [INFO] stats - /#GwX0dHI7ktnZr1nyAAAJ---connection success
+[2016-09-19 15:19:42.985] [INFO] stats - /#GwX0dHI7ktnZr1nyAAAJ---start auth with /socket.io/?access_token=234&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:19:42.986] [INFO] stats - /#GwX0dHI7ktnZr1nyAAAJ---auth success and getconnect
+[2016-09-19 15:23:18.832] [DEBUG] stats - init socket io
+[2016-09-19 15:23:18.983] [DEBUG] stats - boot at port 80
+[2016-09-19 15:23:18.994] [DEBUG] stats - redis init success
+[2016-09-19 15:23:51.752] [INFO] stats - /#drkmcNRXWB6qalw_AAAA---connection success
+[2016-09-19 15:23:51.752] [INFO] stats - /#drkmcNRXWB6qalw_AAAA---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:23:51.755] [INFO] stats - /#drkmcNRXWB6qalw_AAAA---auth success and getconnect
+[2016-09-19 15:23:56.600] [INFO] stats - /#anZClMwd59jFHh4AAAAB---connection success
+[2016-09-19 15:23:56.600] [INFO] stats - /#anZClMwd59jFHh4AAAAB---start auth with /socket.io/?access_token=2&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:23:56.601] [INFO] stats - /#anZClMwd59jFHh4AAAAB---auth success and getconnect
+[2016-09-19 15:24:43.431] [INFO] stats - /#D0lcT53tgUimIp2rAAAC---connection success
+[2016-09-19 15:24:43.431] [INFO] stats - /#D0lcT53tgUimIp2rAAAC---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:24:43.433] [INFO] stats - /#D0lcT53tgUimIp2rAAAC---auth success and getconnect
+[2016-09-19 15:24:47.074] [INFO] stats - /#yl-UAZmxyEP-60oaAAAD---connection success
+[2016-09-19 15:24:47.074] [INFO] stats - /#yl-UAZmxyEP-60oaAAAD---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:24:47.076] [INFO] stats - /#yl-UAZmxyEP-60oaAAAD---auth success and getconnect
+[2016-09-19 15:26:05.410] [INFO] stats - /#yt5ZMncE2diJwdWfAAAE---connection success
+[2016-09-19 15:26:05.412] [INFO] stats - /#yt5ZMncE2diJwdWfAAAE---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:26:05.419] [INFO] stats - /#yt5ZMncE2diJwdWfAAAE---auth success and getconnect
+[2016-09-19 15:26:10.791] [INFO] stats - /#iK_SmUtdUk_j7bHjAAAF---connection success
+[2016-09-19 15:26:10.791] [INFO] stats - /#iK_SmUtdUk_j7bHjAAAF---start auth with /socket.io/?access_token=2&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:26:10.792] [INFO] stats - /#iK_SmUtdUk_j7bHjAAAF---auth success and getconnect
+[2016-09-19 15:28:05.559] [INFO] stats - /#RqCqmU0Y7FHEbgi9AAAG---connection success
+[2016-09-19 15:28:05.559] [INFO] stats - /#RqCqmU0Y7FHEbgi9AAAG---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:28:05.561] [INFO] stats - /#RqCqmU0Y7FHEbgi9AAAG---auth success and getconnect
+[2016-09-19 15:28:11.046] [INFO] stats - /#QoJyvUb-O4tAPxRMAAAH---connection success
+[2016-09-19 15:28:11.046] [INFO] stats - /#QoJyvUb-O4tAPxRMAAAH---start auth with /socket.io/?access_token=2&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:28:11.048] [INFO] stats - /#QoJyvUb-O4tAPxRMAAAH---auth success and getconnect
+[2016-09-19 15:28:55.823] [INFO] stats - /#sGElT-EW9CocsWhaAAAI---connection success
+[2016-09-19 15:28:55.824] [INFO] stats - /#sGElT-EW9CocsWhaAAAI---start auth with /socket.io/?access_token=123&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:28:55.825] [INFO] stats - /#sGElT-EW9CocsWhaAAAI---auth success and getconnect
+[2016-09-19 15:30:22.535] [INFO] stats - /#FZyXqh_UWY4JZFMvAAAJ---connection success
+[2016-09-19 15:30:22.536] [INFO] stats - /#FZyXqh_UWY4JZFMvAAAJ---start auth with /socket.io/?access_token=123&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:30:22.544] [INFO] stats - /#FZyXqh_UWY4JZFMvAAAJ---auth success and getconnect
+[2016-09-19 15:37:16.332] [INFO] stats - /#ui3TTzFlQCMP6wwVAAAK---connection success
+[2016-09-19 15:37:16.332] [INFO] stats - /#ui3TTzFlQCMP6wwVAAAK---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:37:16.335] [INFO] stats - /#ui3TTzFlQCMP6wwVAAAK---auth success and getconnect
+[2016-09-19 15:39:04.003] [DEBUG] stats - init socket io
+[2016-09-19 15:39:04.130] [DEBUG] stats - boot at port 80
+[2016-09-19 15:39:04.139] [DEBUG] stats - redis init success
+[2016-09-19 15:39:43.712] [INFO] stats - /#Pd-71VHKFdpnq5jEAAAA---connection success
+[2016-09-19 15:39:43.712] [INFO] stats - /#Pd-71VHKFdpnq5jEAAAA---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:39:43.719] [INFO] stats - /#Pd-71VHKFdpnq5jEAAAA---auth success and getconnect
+[2016-09-19 15:40:09.624] [INFO] stats - 1:123
+[2016-09-19 15:41:19.634] [INFO] stats - /#5jlj7qttkOF3VM4qAAAB---connection success
+[2016-09-19 15:41:19.634] [INFO] stats - /#5jlj7qttkOF3VM4qAAAB---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:41:19.637] [INFO] stats - /#5jlj7qttkOF3VM4qAAAB---auth success and getconnect
+[2016-09-19 15:41:35.733] [INFO] stats - 1:qwe
+[2016-09-19 15:43:26.513] [DEBUG] stats - init socket io
+[2016-09-19 15:43:26.720] [DEBUG] stats - boot at port 80
+[2016-09-19 15:43:26.732] [DEBUG] stats - redis init success
+[2016-09-19 15:44:20.704] [INFO] stats - /#134KdKkJp3F8_upTAAAA---connection success
+[2016-09-19 15:44:20.704] [INFO] stats - /#134KdKkJp3F8_upTAAAA---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:44:20.712] [INFO] stats - /#134KdKkJp3F8_upTAAAA---auth success and getconnect
+[2016-09-19 15:44:55.420] [INFO] stats - /#WpewWIJY-c44OiwnAAAB---connection success
+[2016-09-19 15:44:55.421] [INFO] stats - /#WpewWIJY-c44OiwnAAAB---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:44:55.423] [INFO] stats - /#WpewWIJY-c44OiwnAAAB---auth success and getconnect
+[2016-09-19 15:45:29.233] [INFO] stats - /#O78LFgYfp1SlnU5BAAAC---connection success
+[2016-09-19 15:45:29.235] [INFO] stats - /#O78LFgYfp1SlnU5BAAAC---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:45:29.254] [INFO] stats - /#O78LFgYfp1SlnU5BAAAC---auth success and getconnect
+[2016-09-19 15:46:55.635] [DEBUG] stats - init socket io
+[2016-09-19 15:46:55.964] [DEBUG] stats - boot at port 80
+[2016-09-19 15:46:55.978] [DEBUG] stats - redis init success
+[2016-09-19 15:47:01.886] [INFO] stats - /#2A1PhdMgv3JUehc2AAAA---connection success
+[2016-09-19 15:47:01.886] [INFO] stats - /#2A1PhdMgv3JUehc2AAAA---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:47:01.906] [INFO] stats - /#2A1PhdMgv3JUehc2AAAA---auth success and getconnect
+[2016-09-19 15:48:29.128] [DEBUG] stats - init socket io
+[2016-09-19 15:48:29.249] [DEBUG] stats - boot at port 80
+[2016-09-19 15:48:29.258] [DEBUG] stats - redis init success
+[2016-09-19 15:48:35.245] [INFO] stats - /#GeEoDtTRRw0_MXG9AAAA---connection success
+[2016-09-19 15:48:35.245] [INFO] stats - /#GeEoDtTRRw0_MXG9AAAA---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:48:35.252] [INFO] stats - /#GeEoDtTRRw0_MXG9AAAA---auth success and getconnect
+[2016-09-19 15:49:22.936] [INFO] stats - /#XLJyAa5cCq74J9l7AAAB---connection success
+[2016-09-19 15:49:22.937] [INFO] stats - /#XLJyAa5cCq74J9l7AAAB---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:49:22.955] [INFO] stats - /#XLJyAa5cCq74J9l7AAAB---auth success and getconnect
+[2016-09-19 15:50:33.976] [INFO] stats - /#Y7zatjym-LnD_eRPAAAC---connection success
+[2016-09-19 15:50:33.976] [INFO] stats - /#Y7zatjym-LnD_eRPAAAC---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:50:33.987] [INFO] stats - /#Y7zatjym-LnD_eRPAAAC---auth success and getconnect
+[2016-09-19 15:52:27.950] [INFO] stats - /#6BIcKZKTusdbAYHRAAAD---connection success
+[2016-09-19 15:52:27.950] [INFO] stats - /#6BIcKZKTusdbAYHRAAAD---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:52:27.963] [INFO] stats - /#6BIcKZKTusdbAYHRAAAD---auth success and getconnect
+[2016-09-19 15:54:16.315] [INFO] stats - /#nlBpkN_vl3FVidGTAAAE---connection success
+[2016-09-19 15:54:16.315] [INFO] stats - /#nlBpkN_vl3FVidGTAAAE---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:54:16.317] [INFO] stats - /#nlBpkN_vl3FVidGTAAAE---auth success and getconnect
+[2016-09-19 15:55:07.759] [INFO] stats - /#TjTDwoaWcRthEsxxAAAF---connection success
+[2016-09-19 15:55:07.759] [INFO] stats - /#TjTDwoaWcRthEsxxAAAF---start auth with /socket.io/?access_token=123&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:55:07.761] [INFO] stats - /#TjTDwoaWcRthEsxxAAAF---auth success and getconnect
+[2016-09-19 15:55:22.920] [INFO] stats - /#Who9MjY4y34ofL1pAAAG---connection success
+[2016-09-19 15:55:22.920] [INFO] stats - /#Who9MjY4y34ofL1pAAAG---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:55:22.921] [INFO] stats - /#Who9MjY4y34ofL1pAAAG---auth success and getconnect
+[2016-09-19 15:56:10.749] [DEBUG] stats - init socket io
+[2016-09-19 15:56:10.877] [DEBUG] stats - boot at port 80
+[2016-09-19 15:56:10.899] [INFO] stats - /#VZO6s7Ll3tnTNrTEAAAA---connection success
+[2016-09-19 15:56:10.899] [INFO] stats - /#VZO6s7Ll3tnTNrTEAAAA---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:56:10.905] [DEBUG] stats - redis init success
+[2016-09-19 15:56:10.926] [INFO] stats - /#VZO6s7Ll3tnTNrTEAAAA---auth success and getconnect
+[2016-09-19 15:56:11.368] [INFO] stats - /#Um1oWgZsR4HKApnkAAAB---connection success
+[2016-09-19 15:56:11.368] [INFO] stats - /#Um1oWgZsR4HKApnkAAAB---start auth with /socket.io/?access_token=123&EIO=3&transport=polling&client_id=demo
+[2016-09-19 15:56:11.371] [INFO] stats - /#Um1oWgZsR4HKApnkAAAB---auth success and getconnect
+[2016-09-19 16:00:04.909] [DEBUG] stats - init socket io
+[2016-09-19 16:00:05.041] [DEBUG] stats - boot at port 80
+[2016-09-19 16:00:05.051] [DEBUG] stats - redis init success
+[2016-09-19 16:00:05.091] [INFO] stats - /#vvrPZ7ZSilES1e_MAAAA---connection success
+[2016-09-19 16:00:05.092] [INFO] stats - /#vvrPZ7ZSilES1e_MAAAA---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:00:05.109] [INFO] stats - /#vvrPZ7ZSilES1e_MAAAA---auth success and getconnect
+[2016-09-19 16:00:05.410] [INFO] stats - /#v9OCARr5eXuXorK8AAAB---connection success
+[2016-09-19 16:00:05.410] [INFO] stats - /#v9OCARr5eXuXorK8AAAB---start auth with /socket.io/?access_token=123&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:00:05.416] [INFO] stats - /#v9OCARr5eXuXorK8AAAB---auth success and getconnect
+[2016-09-19 16:00:26.030] [INFO] stats - /#4P5C9pW6BE33-Dl4AAAC---connection success
+[2016-09-19 16:00:26.030] [INFO] stats - /#4P5C9pW6BE33-Dl4AAAC---start auth with /socket.io/?access_token=123&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:00:26.032] [INFO] stats - /#4P5C9pW6BE33-Dl4AAAC---auth success and getconnect
+[2016-09-19 16:00:33.255] [INFO] stats - /#WUW-S8GUYYLXRwxzAAAD---connection success
+[2016-09-19 16:00:33.255] [INFO] stats - /#WUW-S8GUYYLXRwxzAAAD---start auth with /socket.io/?access_token=123&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:00:33.261] [INFO] stats - /#WUW-S8GUYYLXRwxzAAAD---auth success and getconnect
+[2016-09-19 16:00:42.888] [INFO] stats - /#vGkpxCNrHVwClFWLAAAE---connection success
+[2016-09-19 16:00:42.889] [INFO] stats - /#vGkpxCNrHVwClFWLAAAE---start auth with /socket.io/?access_token=456&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:00:42.890] [INFO] stats - /#vGkpxCNrHVwClFWLAAAE---auth success and getconnect
+[2016-09-19 16:02:05.178] [DEBUG] stats - init socket io
+[2016-09-19 16:02:05.311] [DEBUG] stats - boot at port 80
+[2016-09-19 16:02:05.319] [DEBUG] stats - redis init success
+[2016-09-19 16:02:05.449] [INFO] stats - /#pk1cZSyPss334eeWAAAA---connection success
+[2016-09-19 16:02:05.449] [INFO] stats - /#pk1cZSyPss334eeWAAAA---start auth with /socket.io/?access_token=123&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:02:05.456] [INFO] stats - /#xqk1T3u3-FWOpbphAAAB---connection success
+[2016-09-19 16:02:05.456] [INFO] stats - /#xqk1T3u3-FWOpbphAAAB---start auth with /socket.io/?access_token=456&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:02:05.463] [INFO] stats - /#pk1cZSyPss334eeWAAAA---auth success and getconnect
+[2016-09-19 16:02:05.473] [INFO] stats - /#xqk1T3u3-FWOpbphAAAB---auth success and getconnect
+[2016-09-19 16:02:20.569] [INFO] stats - 123:qwe
+[2016-09-19 16:03:08.750] [DEBUG] stats - init socket io
+[2016-09-19 16:03:08.961] [DEBUG] stats - boot at port 80
+[2016-09-19 16:03:08.970] [DEBUG] stats - redis init success
+[2016-09-19 16:03:09.630] [INFO] stats - /#znxhq8GwdqHhViObAAAA---connection success
+[2016-09-19 16:03:09.631] [INFO] stats - /#znxhq8GwdqHhViObAAAA---start auth with /socket.io/?access_token=123&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:03:09.663] [INFO] stats - /#znxhq8GwdqHhViObAAAA---auth success and getconnect
+[2016-09-19 16:03:10.473] [INFO] stats - /#2VCl__Mz897VKU5DAAAB---connection success
+[2016-09-19 16:03:10.473] [INFO] stats - /#2VCl__Mz897VKU5DAAAB---start auth with /socket.io/?access_token=456&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:03:10.475] [INFO] stats - /#2VCl__Mz897VKU5DAAAB---auth success and getconnect
+[2016-09-19 16:03:18.882] [INFO] stats - /#rHBEzFu5_U21rcpiAAAC---connection success
+[2016-09-19 16:03:18.882] [INFO] stats - /#rHBEzFu5_U21rcpiAAAC---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:03:18.883] [INFO] stats - /#rHBEzFu5_U21rcpiAAAC---auth success and getconnect
+[2016-09-19 16:05:35.326] [DEBUG] stats - init socket io
+[2016-09-19 16:05:35.529] [DEBUG] stats - boot at port 80
+[2016-09-19 16:05:35.537] [DEBUG] stats - redis init success
+[2016-09-19 16:05:43.858] [INFO] stats - /#ZP0jf5tTJ9NLiLHDAAAA---connection success
+[2016-09-19 16:05:43.859] [INFO] stats - /#ZP0jf5tTJ9NLiLHDAAAA---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:05:43.865] [INFO] stats - /#ZP0jf5tTJ9NLiLHDAAAA---auth success and getconnect
+[2016-09-19 16:06:21.743] [INFO] stats - 1:qwe
+[2016-09-19 16:07:11.943] [DEBUG] stats - init socket io
+[2016-09-19 16:07:12.001] [DEBUG] stats - boot at port 80
+[2016-09-19 16:07:12.008] [DEBUG] stats - redis init success
+[2016-09-19 16:07:14.544] [INFO] stats - /#H9n8s6FRC1qu6bcMAAAA---connection success
+[2016-09-19 16:07:14.544] [INFO] stats - /#H9n8s6FRC1qu6bcMAAAA---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:07:14.576] [INFO] stats - /#H9n8s6FRC1qu6bcMAAAA---auth success and getconnect
+[2016-09-19 16:07:17.848] [INFO] stats - /#0lPSJy5ekteBC16JAAAB---connection success
+[2016-09-19 16:07:17.848] [INFO] stats - /#0lPSJy5ekteBC16JAAAB---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:07:17.849] [INFO] stats - /#0lPSJy5ekteBC16JAAAB---auth success and getconnect
+[2016-09-19 16:07:25.587] [INFO] stats - 1:qwe
+[2016-09-19 16:08:00.142] [DEBUG] stats - init socket io
+[2016-09-19 16:08:00.356] [DEBUG] stats - boot at port 80
+[2016-09-19 16:08:00.364] [DEBUG] stats - redis init success
+[2016-09-19 16:08:02.476] [INFO] stats - /#E3pMxO7i7tYsnJr5AAAA---connection success
+[2016-09-19 16:08:02.478] [INFO] stats - /#E3pMxO7i7tYsnJr5AAAA---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:08:02.497] [INFO] stats - /#E3pMxO7i7tYsnJr5AAAA---auth success and getconnect
+[2016-09-19 16:08:07.535] [INFO] stats - /#bfT7Y3pal9Vl_DGlAAAB---connection success
+[2016-09-19 16:08:07.536] [INFO] stats - /#bfT7Y3pal9Vl_DGlAAAB---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:08:07.538] [INFO] stats - /#bfT7Y3pal9Vl_DGlAAAB---auth success and getconnect
+[2016-09-19 16:08:23.338] [INFO] stats - 1:qwe
+[2016-09-19 16:09:21.833] [INFO] stats - /#aBrelgcLi7ubqqg3AAAC---connection success
+[2016-09-19 16:09:21.834] [INFO] stats - /#aBrelgcLi7ubqqg3AAAC---start auth with /socket.io/?access_token=2&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:09:21.835] [INFO] stats - /#aBrelgcLi7ubqqg3AAAC---auth success and getconnect
+[2016-09-19 16:09:29.612] [INFO] stats - 1:qwe
+[2016-09-19 16:09:47.116] [INFO] stats - 1:你好
+[2016-09-19 16:10:05.996] [INFO] stats - 2:你也更好
+[2016-09-19 16:10:23.309] [INFO] stats - 2:keyi
+[2016-09-19 16:14:31.914] [INFO] stats - /#zN53uJDE7yt3AGH8AAAD---connection success
+[2016-09-19 16:14:31.914] [INFO] stats - /#zN53uJDE7yt3AGH8AAAD---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:14:31.915] [INFO] stats - /#zN53uJDE7yt3AGH8AAAD---auth success and getconnect
+[2016-09-19 16:14:40.524] [INFO] stats - /#XcxHcaINPAKRgRs5AAAE---connection success
+[2016-09-19 16:14:40.524] [INFO] stats - /#XcxHcaINPAKRgRs5AAAE---start auth with /socket.io/?access_token=2&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:14:40.525] [INFO] stats - /#XcxHcaINPAKRgRs5AAAE---auth success and getconnect
+[2016-09-19 16:14:48.679] [INFO] stats - /#_uxLXYsgmAo-4VWbAAAF---connection success
+[2016-09-19 16:14:48.679] [INFO] stats - /#_uxLXYsgmAo-4VWbAAAF---start auth with /socket.io/?access_token=3&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:14:48.680] [INFO] stats - /#_uxLXYsgmAo-4VWbAAAF---auth success and getconnect
+[2016-09-19 16:14:53.557] [INFO] stats - /#nzmli93_Pr1GAwt-AAAG---connection success
+[2016-09-19 16:14:53.557] [INFO] stats - /#nzmli93_Pr1GAwt-AAAG---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:14:53.559] [INFO] stats - /#nzmli93_Pr1GAwt-AAAG---auth success and getconnect
+[2016-09-19 16:15:10.994] [INFO] stats - /#-7WexQKNj8ZI2jZtAAAH---connection success
+[2016-09-19 16:15:10.994] [INFO] stats - /#-7WexQKNj8ZI2jZtAAAH---start auth with /socket.io/?access_token=6&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:15:10.995] [INFO] stats - /#-7WexQKNj8ZI2jZtAAAH---auth success and getconnect
+[2016-09-19 16:15:21.242] [INFO] stats - /#LG6mvSDkhg9Gg3aCAAAI---connection success
+[2016-09-19 16:15:21.243] [INFO] stats - /#LG6mvSDkhg9Gg3aCAAAI---start auth with /socket.io/?access_token=5&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:15:21.243] [INFO] stats - /#LG6mvSDkhg9Gg3aCAAAI---auth success and getconnect
+[2016-09-19 16:15:41.331] [INFO] stats - 6:asdasd
+[2016-09-19 16:16:02.857] [INFO] stats - 5:nihao
+[2016-09-19 16:17:28.705] [DEBUG] stats - init socket io
+[2016-09-19 16:17:28.838] [DEBUG] stats - boot at port 80
+[2016-09-19 16:17:28.847] [DEBUG] stats - redis init success
+[2016-09-19 16:17:29.023] [INFO] stats - /#N9BhZILnDx4FNS-dAAAA---connection success
+[2016-09-19 16:17:29.024] [INFO] stats - /#N9BhZILnDx4FNS-dAAAA---start auth with /socket.io/?access_token=2&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:17:29.038] [INFO] stats - /#xlCAhx5auvcKnoPsAAAB---connection success
+[2016-09-19 16:17:29.039] [INFO] stats - /#xlCAhx5auvcKnoPsAAAB---start auth with /socket.io/?access_token=5&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:17:29.040] [INFO] stats - /#N9BhZILnDx4FNS-dAAAA---auth success and getconnect
+[2016-09-19 16:17:29.051] [INFO] stats - /#xlCAhx5auvcKnoPsAAAB---auth success and getconnect
+[2016-09-19 16:17:29.093] [INFO] stats - /#aDwoiZ4KTMbf9echAAAC---connection success
+[2016-09-19 16:17:29.093] [INFO] stats - /#aDwoiZ4KTMbf9echAAAC---start auth with /socket.io/?access_token=3&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:17:29.095] [INFO] stats - /#aDwoiZ4KTMbf9echAAAC---auth success and getconnect
+[2016-09-19 16:17:29.108] [INFO] stats - /#n0CUrQACYiNFgZCJAAAD---connection success
+[2016-09-19 16:17:29.108] [INFO] stats - /#n0CUrQACYiNFgZCJAAAD---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:17:29.111] [INFO] stats - /#n0CUrQACYiNFgZCJAAAD---auth success and getconnect
+[2016-09-19 16:17:29.229] [INFO] stats - /#DfhNxSNA6ftXJ6TzAAAE---connection success
+[2016-09-19 16:17:29.229] [INFO] stats - /#DfhNxSNA6ftXJ6TzAAAE---start auth with /socket.io/?access_token=6&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:17:29.233] [INFO] stats - /#DfhNxSNA6ftXJ6TzAAAE---auth success and getconnect
+[2016-09-19 16:17:46.348] [INFO] stats - /#F_dFO18eZL2twQzgAAAF---connection success
+[2016-09-19 16:17:46.348] [INFO] stats - /#F_dFO18eZL2twQzgAAAF---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:17:46.352] [INFO] stats - /#F_dFO18eZL2twQzgAAAF---auth success and getconnect
+[2016-09-19 16:17:50.681] [INFO] stats - /#psq5HeqZuHSp_tWSAAAG---connection success
+[2016-09-19 16:17:50.681] [INFO] stats - /#psq5HeqZuHSp_tWSAAAG---start auth with /socket.io/?access_token=2&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:17:50.682] [INFO] stats - /#psq5HeqZuHSp_tWSAAAG---auth success and getconnect
+[2016-09-19 16:27:00.147] [DEBUG] stats - init socket io
+[2016-09-19 16:27:00.291] [DEBUG] stats - boot at port 80
+[2016-09-19 16:27:00.315] [INFO] stats - /#8QXNnyHtUK0garhtAAAA---connection success
+[2016-09-19 16:27:00.315] [INFO] stats - /#8QXNnyHtUK0garhtAAAA---start auth with /socket.io/?access_token=2&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:27:00.319] [INFO] stats - /#wxRi62Upfs33X6z8AAAB---connection success
+[2016-09-19 16:27:00.319] [INFO] stats - /#wxRi62Upfs33X6z8AAAB---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:27:00.324] [DEBUG] stats - redis init success
+[2016-09-19 16:27:00.351] [INFO] stats - /#8QXNnyHtUK0garhtAAAA---auth success and getconnect
+[2016-09-19 16:27:00.352] [INFO] stats - /#wxRi62Upfs33X6z8AAAB---auth success and getconnect
+[2016-09-19 16:27:12.546] [INFO] stats - /#hTbFq04a9KY60MRMAAAC---connection success
+[2016-09-19 16:27:12.546] [INFO] stats - /#hTbFq04a9KY60MRMAAAC---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:27:12.547] [INFO] stats - /#hTbFq04a9KY60MRMAAAC---auth success and getconnect
+[2016-09-19 16:27:16.929] [INFO] stats - /#VyCvzmfJWfr165AzAAAD---connection success
+[2016-09-19 16:27:16.929] [INFO] stats - /#VyCvzmfJWfr165AzAAAD---start auth with /socket.io/?access_token=2&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:27:16.934] [INFO] stats - /#VyCvzmfJWfr165AzAAAD---auth success and getconnect
+[2016-09-19 16:27:24.060] [INFO] stats - publicchat:/#VyCvzmfJWfr165AzAAAD send public message :123
+[2016-09-19 16:34:20.527] [INFO] stats - /#6KV7ylNTJeADJr2NAAAE---connection success
+[2016-09-19 16:34:20.528] [INFO] stats - /#6KV7ylNTJeADJr2NAAAE---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:34:20.529] [INFO] stats - /#6KV7ylNTJeADJr2NAAAE---auth success and getconnect
+[2016-09-19 16:35:13.262] [DEBUG] stats - init socket io
+[2016-09-19 16:35:13.424] [DEBUG] stats - boot at port 80
+[2016-09-19 16:35:13.433] [DEBUG] stats - redis init success
+[2016-09-19 16:35:15.093] [INFO] stats - /#3SH6qfQDARWHmr85AAAA---connection success
+[2016-09-19 16:35:15.094] [INFO] stats - /#3SH6qfQDARWHmr85AAAA---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:35:15.101] [INFO] stats - /#3SH6qfQDARWHmr85AAAA---auth success and getconnect
+[2016-09-19 16:35:16.658] [INFO] stats - /#W746QGSvkgowiBmQAAAB---connection success
+[2016-09-19 16:35:16.659] [INFO] stats - /#W746QGSvkgowiBmQAAAB---start auth with /socket.io/?access_token=2&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:35:16.663] [INFO] stats - /#W746QGSvkgowiBmQAAAB---auth success and getconnect
+[2016-09-19 16:35:57.926] [DEBUG] stats - init socket io
+[2016-09-19 16:35:58.068] [DEBUG] stats - boot at port 80
+[2016-09-19 16:35:58.077] [DEBUG] stats - redis init success
+[2016-09-19 16:36:00.368] [INFO] stats - /#NGY1qVbA9WXOfllFAAAA---connection success
+[2016-09-19 16:36:00.368] [INFO] stats - /#NGY1qVbA9WXOfllFAAAA---start auth with /socket.io/?access_token=2&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:36:00.390] [INFO] stats - /#NGY1qVbA9WXOfllFAAAA---auth success and getconnect
+[2016-09-19 16:36:02.153] [INFO] stats - /#COytPRsANzZBQoqRAAAB---connection success
+[2016-09-19 16:36:02.153] [INFO] stats - /#COytPRsANzZBQoqRAAAB---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:36:02.159] [INFO] stats - /#COytPRsANzZBQoqRAAAB---auth success and getconnect
+[2016-09-19 16:38:12.893] [DEBUG] stats - init socket io
+[2016-09-19 16:38:13.037] [DEBUG] stats - boot at port 80
+[2016-09-19 16:38:13.045] [DEBUG] stats - redis init success
+[2016-09-19 16:38:17.862] [INFO] stats - /#vA_CcwZFQ5Wg9ikTAAAA---connection success
+[2016-09-19 16:38:17.863] [INFO] stats - /#vA_CcwZFQ5Wg9ikTAAAA---start auth with /socket.io/?access_token=2&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:38:17.884] [INFO] stats - /#vA_CcwZFQ5Wg9ikTAAAA---auth success and getconnect
+[2016-09-19 16:57:48.536] [DEBUG] stats - init socket io
+[2016-09-19 16:57:48.685] [DEBUG] stats - boot at port 80
+[2016-09-19 16:57:48.694] [DEBUG] stats - redis init success
+[2016-09-19 16:57:49.086] [INFO] stats - /#sWA7X8L6KOUyXcRsAAAA---connection success
+[2016-09-19 16:57:49.087] [INFO] stats - /#sWA7X8L6KOUyXcRsAAAA---start auth with /socket.io/?access_token=2&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:57:49.098] [INFO] stats - /#sWA7X8L6KOUyXcRsAAAA---auth success and getconnect
+[2016-09-19 16:58:02.178] [INFO] stats - /#hfh9KqogPk8jCO2EAAAB---connection success
+[2016-09-19 16:58:02.178] [INFO] stats - /#hfh9KqogPk8jCO2EAAAB---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 16:58:02.180] [INFO] stats - /#hfh9KqogPk8jCO2EAAAB---auth success and getconnect
+[2016-09-19 16:58:18.374] [INFO] stats - 1:ppp
+[2016-09-19 17:25:55.655] [DEBUG] stats - init socket io
+[2016-09-19 17:25:55.803] [DEBUG] stats - boot at port 80
+[2016-09-19 17:25:55.812] [DEBUG] stats - redis init success
+[2016-09-19 17:26:10.171] [INFO] stats - /#p0WekCucAv2AufN8AAAA---connection success
+[2016-09-19 17:26:10.171] [INFO] stats - /#p0WekCucAv2AufN8AAAA---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 17:26:10.177] [INFO] stats - /#p0WekCucAv2AufN8AAAA---auth success and getconnect
+[2016-09-19 17:26:30.565] [DEBUG] stats - init socket io
+[2016-09-19 17:26:30.714] [DEBUG] stats - boot at port 80
+[2016-09-19 17:26:30.724] [DEBUG] stats - redis init success
+[2016-09-19 17:26:36.096] [INFO] stats - /#MmB9E-PNIEFRd_7OAAAA---connection success
+[2016-09-19 17:26:36.097] [INFO] stats - /#MmB9E-PNIEFRd_7OAAAA---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 17:26:36.103] [INFO] stats - /#MmB9E-PNIEFRd_7OAAAA---auth success and getconnect
+[2016-09-19 17:27:17.860] [DEBUG] stats - init socket io
+[2016-09-19 17:27:18.007] [DEBUG] stats - boot at port 80
+[2016-09-19 17:27:18.016] [DEBUG] stats - redis init success
+[2016-09-19 17:27:22.189] [INFO] stats - /#q32gMq9YVT4g8k61AAAA---connection success
+[2016-09-19 17:27:22.190] [INFO] stats - /#q32gMq9YVT4g8k61AAAA---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 17:27:22.195] [INFO] stats - /#q32gMq9YVT4g8k61AAAA---auth success and getconnect
+[2016-09-19 17:27:37.065] [DEBUG] stats - init socket io
+[2016-09-19 17:27:37.214] [DEBUG] stats - boot at port 80
+[2016-09-19 17:27:37.224] [DEBUG] stats - redis init success
+[2016-09-19 17:27:41.272] [INFO] stats - /#aqj_cvDzlsSd5MXmAAAA---connection success
+[2016-09-19 17:27:41.272] [INFO] stats - /#aqj_cvDzlsSd5MXmAAAA---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 17:27:41.277] [INFO] stats - /#aqj_cvDzlsSd5MXmAAAA---auth success and getconnect
+[2016-09-19 17:27:55.645] [INFO] stats - groupchat:1:123:asdasd
+[2016-09-19 17:57:19.172] [DEBUG] stats - init socket io
+[2016-09-19 17:57:19.337] [DEBUG] stats - boot at port 80
+[2016-09-19 17:57:19.346] [DEBUG] stats - redis init success
+[2016-09-19 17:57:28.268] [INFO] stats - /#52QKq9_vmmCLvP4LAAAA---connection success
+[2016-09-19 17:57:28.269] [INFO] stats - /#52QKq9_vmmCLvP4LAAAA---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 17:57:28.275] [INFO] stats - /#52QKq9_vmmCLvP4LAAAA---auth success and getconnect
+[2016-09-19 17:58:27.876] [DEBUG] stats - init socket io
+[2016-09-19 17:58:28.113] [DEBUG] stats - boot at port 80
+[2016-09-19 17:58:28.122] [DEBUG] stats - redis init success
+[2016-09-19 17:59:17.563] [DEBUG] stats - init socket io
+[2016-09-19 17:59:17.736] [DEBUG] stats - boot at port 80
+[2016-09-19 17:59:17.745] [DEBUG] stats - redis init success
+[2016-09-19 17:59:24.201] [INFO] stats - /#7whE86kJuIaYMe4LAAAA---connection success
+[2016-09-19 17:59:24.201] [INFO] stats - /#7whE86kJuIaYMe4LAAAA---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 17:59:24.207] [INFO] stats - /#7whE86kJuIaYMe4LAAAA---auth success and getconnect
+[2016-09-19 17:59:38.077] [INFO] stats - 1  joingroup 123
+[2016-09-19 18:00:00.920] [INFO] stats - 1  leavegroup 123
+[2016-09-19 18:00:39.954] [INFO] stats - 1  joingroup asd
+[2016-09-19 18:02:19.997] [DEBUG] stats - init socket io
+[2016-09-19 18:02:20.175] [DEBUG] stats - boot at port 80
+[2016-09-19 18:02:20.184] [DEBUG] stats - redis init success
+[2016-09-19 18:02:25.032] [INFO] stats - /#tJEO4it0zO-XZeOEAAAA---connection success
+[2016-09-19 18:02:25.032] [INFO] stats - /#tJEO4it0zO-XZeOEAAAA---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 18:02:25.039] [INFO] stats - /#tJEO4it0zO-XZeOEAAAA---auth success and getconnect
+[2016-09-19 18:02:32.564] [INFO] stats - 1  joingroup 123
+[2016-09-19 18:02:54.719] [INFO] stats - 1  leavegroup 123
+[2016-09-19 18:03:55.507] [INFO] stats - 1  joingroup 234
+[2016-09-19 18:05:32.496] [DEBUG] stats - init socket io
+[2016-09-19 18:05:32.660] [DEBUG] stats - boot at port 80
+[2016-09-19 18:05:32.669] [DEBUG] stats - redis init success
+[2016-09-19 18:05:42.556] [INFO] stats - /#0ZiByJmQV7pUpSt_AAAA---connection success
+[2016-09-19 18:05:42.556] [INFO] stats - /#0ZiByJmQV7pUpSt_AAAA---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 18:05:42.562] [INFO] stats - /#0ZiByJmQV7pUpSt_AAAA---auth success and getconnect
+[2016-09-19 18:05:51.445] [INFO] stats - message :qwe
+[2016-09-19 18:16:58.074] [DEBUG] stats - init socket io
+[2016-09-19 18:16:58.247] [DEBUG] stats - boot at port 80
+[2016-09-19 18:16:58.255] [DEBUG] stats - redis init success
+[2016-09-19 18:17:08.497] [INFO] stats - /#Cs5qI0rSg_TcWL4kAAAA---connection success
+[2016-09-19 18:17:08.497] [INFO] stats - /#Cs5qI0rSg_TcWL4kAAAA---start auth with /socket.io/?access_token=1&EIO=3&transport=polling&client_id=demo
+[2016-09-19 18:17:08.505] [INFO] stats - /#Cs5qI0rSg_TcWL4kAAAA---auth success and getconnect
+[2016-09-19 18:17:13.980] [INFO] stats - /#H4mqJvSx1P8-NCQ0AAAB---connection success
+[2016-09-19 18:17:13.981] [INFO] stats - /#H4mqJvSx1P8-NCQ0AAAB---start auth with /socket.io/?access_token=2&EIO=3&transport=polling&client_id=demo
+[2016-09-19 18:17:13.982] [INFO] stats - /#H4mqJvSx1P8-NCQ0AAAB---auth success and getconnect
+[2016-09-19 18:17:22.894] [INFO] stats - 1:qwe
+[2016-09-19 18:17:33.308] [INFO] stats - 2  joingroup 123
+[2016-09-19 18:17:43.712] [INFO] stats - 1  joingroup 123
+[2016-09-19 18:17:59.679] [INFO] stats - groupchat:1:123:qwe
