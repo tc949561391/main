@@ -4,3 +4,4 @@
 module.exports.pppchat=require('./pppchat')
 module.exports.publicchat=require('./publicchat')
 module.exports.groupchat=require('./groupchat')
+module.exports.crossclientchat=require('./crossclientchat')
